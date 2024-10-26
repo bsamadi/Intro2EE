@@ -14,7 +14,7 @@ Electrical Engineering is a branch of engineering that deals with the study and 
 
 ## Key Areas of Electrical Engineering
 
-![](imgs/electrical_engineering_diagram.png)
+- Control Engineering
 
 ## Fundamental Concepts
 
