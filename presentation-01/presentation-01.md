@@ -1,51 +1,54 @@
 ---
-title: 'Some Cool Sounding Buzzwords'
-subtitle: 'Less Buzzy and Somewhat More Explanaotry Subtitle'
+title: 'Introduction to Electrical Engineering'
+subtitle: 'Fundamentals, Applications, and Future Directions'
 author: Damien Théroux
 date: today
 date-format: long
 ---
 
-# Section heading
+# Overview of Electrical Engineering
 
-## Slide heading
+## What is Electrical Engineering?
 
-Text here. You can use the <mark>mark tag</mark> to highlight things in some formats.
+Electrical Engineering is a branch of engineering that deals with the study and application of electricity, electronics, and electromagnetism.
 
-## New slide heading
+## Key Areas of Electrical Engineering
 
-![](imgs/Brown_spotted_tabby_bengal_cat_2.png)
+![](imgs/electrical_engineering_diagram.png)
 
-## Incremental lists
+## Fundamental Concepts
 
 ::: incremental
 
-- Put in code fence
-- Using three colons
+- Voltage, Current, Resistance
+- Ohm’s Law
+- Circuit Analysis
 
 :::
 
-## Emoji
+## Applications
 
-🤩 Totes work, except in PDF output, boo.
+🔌 Electrical Engineering plays a vital role in various sectors, including telecommunications, power generation, and consumer electronics.
 
 ## Speaker notes
 
-Include speaker notes in another fenced code block.
-
 ::: notes
 
-Like this.
+Introduce the field of Electrical Engineering and its significance in modern technology. 
 
 :::
 
-## Columns
+## Career Opportunities
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-Put your contents in column code blocks
+- Power Systems Engineer
+- Electronics Engineer
 :::
 ::: {.column width="50%"}
-To make them show up in two columns
+- Control Systems Engineer
+- Telecommunications Engineer
 :::
 ::::::::::::::
+
+Feel free to add or modify any sections!
